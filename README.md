@@ -1,1 +1,1 @@
-# AccessiFood
+Individuals who are blind or visually impaired face significant challenges when it comes to accessing and understanding the information presented on food product labels. Traditional methods of reading such labels, which rely on visual cues, are inaccessible to these individuals, leading to difficulties in making informed dietary choices. As a result, they may struggle to identify allergens, nutritional content, and other critical information, putting their health and well-being at risk.
